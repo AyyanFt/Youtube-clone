@@ -1,3 +1,2 @@
-# Youtube-clone
-Well I would call this my first Proud if coding
-nothing to beat here just.. a youtube clone.
+# Another 14y/o
+Well I would call coding my passion 
